@@ -12,7 +12,7 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 
 ## Live Site
 
-(Once hosted) → https://your-username.github.io/portfolio/
+(Once hosted) → https://pogo1214.github.io/Portfolio-detaile/
 
 ## Contact
 
